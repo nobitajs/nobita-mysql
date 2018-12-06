@@ -1,0 +1,30 @@
+{
+  "name": "nobita-mysql",
+  "version": "0.0.2",
+  "description": "nobita-mysql",
+  "main": "lib/nobita-mysql.js",
+  "dependencies": {
+    "mysql": "2.16.0"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": { 
+    "type" : "git", 
+    "url" : "https://github.com/iamtang/nobita.git"
+  },
+  "keywords": [
+    "koa",
+    "nobita",
+    "nobita-mysql"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/iamtang/nobita/issues",
+    "email": "303907720@qq.com"
+  },
+  "author": "JJ",
+  "license": "MIT"
+}
