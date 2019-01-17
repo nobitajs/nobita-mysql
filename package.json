@@ -1,6 +1,6 @@
 {
   "name": "nobita-mysql",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "nobita-mysql",
   "main": "lib/nobita-mysql.js",
   "dependencies": {
