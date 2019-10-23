@@ -1,6 +1,6 @@
 {
   "name": "nobita-mysql",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "nobita-mysql",
   "main": "index.js",
   "dependencies": {},
